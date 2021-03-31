@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "垃圾分类助手",
+  "usingComponents": {
+    "super-search": "/components/search/index"
+  }
+}

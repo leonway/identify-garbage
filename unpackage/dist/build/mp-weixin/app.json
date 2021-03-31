@@ -1,0 +1,25 @@
+{
+  "pages": [
+    "pages/index/index"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "垃圾分类助手",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "usingComponents": {
+    "van-toast": "/wxcomponents/vant/toast/index",
+    "van-button": "/wxcomponents/vant/button/index",
+    "van-search": "/wxcomponents/vant/search/index",
+    "van-icon": "/wxcomponents/vant/icon/index",
+    "van-notify": "/wxcomponents/vant/notify/index",
+    "van-dialog": "/wxcomponents/vant/dialog/index",
+    "van-row": "/wxcomponents/vant/row/index",
+    "van-col": "/wxcomponents/vant/col/index",
+    "van-cell": "/wxcomponents/vant/cell/index",
+    "van-cell-group": "/wxcomponents/vant/cell-group/index"
+  },
+  "sitemapLocation": "sitemap.json"
+}
